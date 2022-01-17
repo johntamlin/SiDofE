@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage ('build') {
             steps{
-                echo 'Build stage executed.'
+                echo 'Build stage executed. I am the man.'
             }
         }
 
